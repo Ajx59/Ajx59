@@ -1,17 +1,19 @@
-<h1> hello 👋</h1>
-https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<h1 align="center">👋 Hello, My name's Yacine.</h1></br>
 
-<!--
-**Ajx59/Ajx59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Front-end</h2>
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,tailwind&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Back-end</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=php,symfony,laravel,java,spring,hibernate,postgres,mysql&theme=light)](https://skillicons.dev)</br>
+
+<h2>👨‍💻 DevOps</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=docker,github,git&theme=light)](https://skillicons.dev)</br>
+
+<h2>Design</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)</br>
+
+
