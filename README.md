@@ -1,5 +1,5 @@
 <h1> hello 👋</h1>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **Ajx59/Ajx59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
