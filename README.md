@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Front-end</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,tailwind&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,bootstrap,tailwind&theme=light)](https://skillicons.dev)
 
 <h2>👨‍💻 Back-end</h2>
 
